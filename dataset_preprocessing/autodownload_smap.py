@@ -17,8 +17,8 @@ import calendar
 from datetime import datetime, timedelta
 import requests
 
-username = "paahukh22"
-password = "Paahuni@1234"
+username = ""
+password = ""
 
 def download_smap_automatically():
     # Downloads SMAP Soil moisture from yesterday in .h5 format
