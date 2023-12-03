@@ -8,8 +8,8 @@ import gdal
 import subprocess
 import glob
 
-username = "paahukh22"
-password = "Paahuni@1234"
+username = ""
+password = ""
 
 def download_lai_automatically():
     download_path = "/s/" + socket.gethostname() + "/b/nobackup/galileo/sm_predictions/input_datasets/MCD15A3H/raw/"
